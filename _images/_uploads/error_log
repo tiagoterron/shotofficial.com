@@ -1,0 +1,28 @@
+[23-Jul-2012 08:37:05] PHP Warning:  imagepng() [<a href='function.imagepng'>function.imagepng</a>]: gd-png:  fatal libpng error: zlib failed to initialize compressor -- stream error in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 76
+[23-Jul-2012 08:37:05] PHP Warning:  imagepng() [<a href='function.imagepng'>function.imagepng</a>]: gd-png error: setjmp returns error condition in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 76
+[23-Jul-2012 08:54:29] PHP Warning:  Division by zero in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 57
+[23-Jul-2012 08:54:29] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 59
+[23-Jul-2012 08:54:29] PHP Warning:  Division by zero in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 60
+[23-Jul-2012 08:54:29] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 61
+[23-Jul-2012 08:54:29] PHP Warning:  Division by zero in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 63
+[23-Jul-2012 08:54:29] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 64
+[23-Jul-2012 08:54:29] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 66
+[23-Jul-2012 08:54:29] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 68
+[23-Jul-2012 08:54:29] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 69
+[23-Jul-2012 08:54:29] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 79
+[23-Jul-2012 08:54:29] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 80
+[23-Jul-2012 08:54:29] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 81
+[23-Jul-2012 08:54:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 86
+[23-Jul-2012 08:56:26] PHP Warning:  Division by zero in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 57
+[23-Jul-2012 08:56:26] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 59
+[23-Jul-2012 08:56:26] PHP Warning:  Division by zero in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 60
+[23-Jul-2012 08:56:26] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 61
+[23-Jul-2012 08:56:26] PHP Warning:  Division by zero in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 63
+[23-Jul-2012 08:56:26] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 64
+[23-Jul-2012 08:56:26] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 66
+[23-Jul-2012 08:56:26] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 68
+[23-Jul-2012 08:56:26] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 69
+[23-Jul-2012 08:56:26] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 79
+[23-Jul-2012 08:56:26] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 80
+[23-Jul-2012 08:56:26] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 81
+[23-Jul-2012 08:56:26] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/shotoffi/public_html/_js/_uberuploadcropper/crop.php on line 86
